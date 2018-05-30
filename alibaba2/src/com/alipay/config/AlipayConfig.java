@@ -29,6 +29,7 @@ public class AlipayConfig {
 
 	String test = "110";
 
+	String chongtu2 = "119";
 	// 支付宝公钥,查看地址：https://openhome.alipay.com/platform/keyManage.htm 对应APPID下的支付宝公钥。
     public static String alipay_public_key = "";
 
