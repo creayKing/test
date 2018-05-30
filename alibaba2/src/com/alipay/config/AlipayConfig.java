@@ -19,7 +19,7 @@ public class AlipayConfig {
 
 	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
 	public static String app_id = "1234415656";
-	
+	String dubble = "123456";
 	// 商户私钥，您的PKCS8格式RSA2私钥
     public static String merchant_private_key = "";
 	
