@@ -23,7 +23,7 @@ public class AlipayConfig {
 	// 商户私钥，您的PKCS8格式RSA2私钥
     public static String merchant_private_key = "";
 	
-    String spring = "123";
+    String spring = "1234";
 	// 支付宝公钥,查看地址：https://openhome.alipay.com/platform/keyManage.htm 对应APPID下的支付宝公钥。
     public static String alipay_public_key = "";
 
